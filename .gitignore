@@ -1,0 +1,6 @@
+box2d.i.cpp
+*.o
+*.lib
+*.dll
+*.a
+*.so
